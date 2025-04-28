@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/55-grupe-astronautas
+Site published at:  https://romasmv.github.io/55-grupe-astronautas/
 
 Design: ![alt text](./img/original-design.png)
 
@@ -31,6 +31,7 @@ Design: ![alt text](./img/original-design.png)
     -   `mkdir img` (sukuria folderi/direktorija)
     -   `mkdir folder1 folder2 folder3 folder4`
     -   `ls -al` (stulpeliu atvaizduoja direktorijoje esanti turini)
+    -   `rm failo.pavadinimas` (pasalina faila)
 -   git commands:
     -   `git init` (git repozitorijos iniciavimas)
     -   `git add .` (visus paredaguotus failas perkelia i "stage", t.y. paruosia commit'inimui)
@@ -59,7 +60,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/54-grupe-astronautas.git
+    git clone https://github.com/romasmv/55-grupe-astronautas.git
     ```
 2. Install NPM packages
     ```sh
@@ -80,7 +81,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Rimantas: [Github](https://github.com/romasmv)
 
 ## ⚠️ License
 
