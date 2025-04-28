@@ -10,13 +10,25 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://romasmv.github.io/55-grupe-astronautas/
 
-Design: ![alt text](./original-design.png)
+Design: ![alt text](.img/original-design.png)
 
 ## 🎯 Project features/goals
 
 -   Github pages
 -   no responsive design
--   inline CSS
+-   CSS file
+-   FontAwesome icons
+-   display:flex
+-   hover state
+-   bash commands:
+     - `touch index.html`(sukuria faila)
+     - `mkdir` (sukuria folderi/direktorija)
+     - `ls -al` (stulpeliu atvaizduoja direktorijoje esanti turini)
+-   git commands
+     - `git init`
+     - `git add`     
+     - `git commit -m "Message text"`
+     - `git push`     
 
 ## 🧰 Getting Started
 
