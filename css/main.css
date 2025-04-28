@@ -1,17 +1,24 @@
 header {
     width: 800px;
     margin-left: calc(50% - 400px);
-    background-color: pink;
+    background-color: white;
+    display: inline-block;
+    text-decoration: none;
+    color: black; 
   }
   
   main {
     width: 800px;
     margin-left: calc(50% - 400px);
-    background-color: aquamarine;
+    background-color: white;
+    display: inline-block;
   }
   
   footer {
     width: 800px;
     margin-left: calc(50% - 400px);
     background-color: lightgray;
+    display: inline-block;
+    text-decoration: none;
+    color: black; 
   }
